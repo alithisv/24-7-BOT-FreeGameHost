@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "india2.freegamehost.xyz",
-    "port": 25903,
-    "version": "1.20.4",
+    "ip": "survive470.mcsh.io",
+    "port": 25565,
+    "version": "1.20.1",
     "try-creative": false
   },
   "position": {
